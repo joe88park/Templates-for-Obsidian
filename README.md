@@ -7,6 +7,10 @@ I added this to my Github page becasue I can believe that having templates in ob
 These are a few of my light-weight templates I use, so if you're new and don't have a beginner set of templates, feel free to use mine
 as a jump start. 
 
+... I'm figuring out how to use Github ... bare with me for the updates
+ 
+ will be posting templates here soon.
+
 Author
 @joe88park
 
