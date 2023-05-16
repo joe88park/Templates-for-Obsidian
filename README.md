@@ -9,7 +9,7 @@ as a jump start.
 
 ... I'm figuring out how to use Github ... bare with me for the updates
  
- will be posting templates here soon.
+Added the template files for my Book Notes and Daily Notes.
 
 Author
 @joe88park
