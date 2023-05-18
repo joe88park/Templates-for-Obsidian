@@ -9,7 +9,9 @@ as a jump start.
 
 ... I'm figuring out how to use Github ... bare with me for the updates
  
-Added the template files for my Book Notes and Daily Notes.
+Added the template files for my Book Notes and Daily Notes. 
+
+Added the template files for my daily notes and Eisenhower Matrix -05-18-23
 
 Author
 @joe88park
